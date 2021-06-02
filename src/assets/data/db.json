@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Party Wear Shirt",
+      "categoryId": 1,
+      "description": "description first for shirt",
+      "price": 300,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s1.jpg",
+      "rating": 4,
+      "review": 150,
+      "vendor_name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 2,
+      "productName": "Casual shirt",
+      "categoryId": 2,
+      "description": "description second for shirt",
+      "price": 300,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s2.jpeg",
+      "rating": 3,
+      "review": 150,
+      "vendor_name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "Formal shirt",
+      "categoryId": 2,
+      "description": "description third for shirt",
+      "price": 250,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s3.jpeg",
+      "rating": 5,
+      "review": 150,
+      "vendor_name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Design shirt",
+      "categoryId": 3,
+      "description": "description fourth goes here",
+      "price": 350,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s4.jpg",
+      "rating": 3,
+      "review": 150,
+      "vendor_name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Formal shirt",
+      "categoryId": 5,
+      "description": "description fifth for shirt",
+      "price": 450,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s5.jpg",
+      "rating": 5,
+      "review": 150,
+      "vendor_name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "description": "description fifth for shirt",
+      "rating": "",
+      "price": 450,
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "blue",
+      "reviews": "",
+      "id": 112
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Men"
+    },
+    {
+      "id": 3,
+      "categoryName": "Women"
+    },
+    {
+      "id": 4,
+      "categoryName": "Home & Furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "baby & Kids"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
